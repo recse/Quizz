@@ -9,6 +9,8 @@ This project is developed in HTML, CSS and JavaScript and this is a Quiz game.
 
 You can see an example of the app here:
 
+https://www.adrianbelmonte.es/portfolio/quizz/index.html
+or
 https://adoring-curie-e17fee.netlify.app/
 
 ### Pre-requirements 📋
