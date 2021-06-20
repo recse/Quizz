@@ -1,4 +1,4 @@
-# Contador
+# Quizz Game!
 
 This project is developed in HTML, CSS and JavaScript and this is a Quiz game.
 
